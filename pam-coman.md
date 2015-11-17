@@ -1,0 +1,5 @@
+- [ ] My name is Pamela Coman
+     - [ ] I'm from Tucumán, Argentina
+     - [ ] I like to eat dulce de leche
+     - [ ] I like to learn useless and useful things 
+     - [ ] My favorite color is blue
